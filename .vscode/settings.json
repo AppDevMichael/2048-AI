@@ -1,0 +1,13 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#173502",
+        "titleBar.activeBackground": "#204A03",
+        "titleBar.activeForeground": "#F1FEE8"
+    },
+    "python.pythonPath": "C:\\Users\\micha\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "cSpell.words": [
+        "dtype",
+        "getch",
+        "msvcrt"
+    ]
+}
