@@ -14,11 +14,17 @@ from pprint import pprint
 import numpy as np
 import sys
 
+register(
+    id='Copy-v0',
+    entry_point='gym.envs.algorithmic:CopyEnv',
+    max_episode_steps=200,
+    reward_threshold=25.0,
+)
 
 score = 0
 board_size = 4
 
-
+class 
 def game(board):
     global score
     print(np.array(board))
